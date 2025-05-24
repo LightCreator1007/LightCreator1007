@@ -44,7 +44,7 @@ I chose the username **LightCreator1007** as a kid (i bet most of did this stuff
 
 ### Let’s Connect
 <p align="center">
-  <a href="(linkedin.com/in/arunit-chakraborty-92513631">
+  <a href="linkedin.com/in/arunit-chakraborty-92513631">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arunitchakraborty2006@gmail.com">
