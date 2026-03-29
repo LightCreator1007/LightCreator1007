@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hey! I'm Arunit — a passionate developer on a mission to **craft meaningful digital experiences**.  
+Hey! I'm Arunit, a passionate developer on a mission to **craft meaningful digital experiences**.  
 I chose the username **LightCreator1007** as a kid (we all did this stuff, right?), and honestly? It's grown on me. It's like that one shirt you won't throw away XD.
 
 - BTech student @ **Indian Institute of Information Technology Design and Manufacturing, Jabalpur**
@@ -88,8 +88,8 @@ I chose the username **LightCreator1007** as a kid (we all did this stuff, right
 
 ## Fun Facts
 
-- My head's a jungle of ideas — I just need time and caffeine to build them
-- **Anime fanatic** — currently working on anime-related projects!
+- My head's a jungle of ideas: I just need time and caffeine to build them
+- **Anime fanatic**: currently working on anime-related projects!
 - Love exploring new technologies and building cool stuff
 - Always reading about the latest in web development
 - Code better with lo-fi beats in the background
