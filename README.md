@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" height="48" align="top" alt="Pikachu" /> &nbsp; **Pikachu** · When several of these Pokemon gather, their electricity can build and cause lightning storms.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png" height="48" align="top" alt="Shiftry" /> &nbsp; **Shiftry** · A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.
 <!-- POKEMON-FACT:END -->
 
 ## links
