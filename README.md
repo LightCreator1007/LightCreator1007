@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png" height="48" align="top" alt="Shiftry" /> &nbsp; **Shiftry** · A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png" height="48" align="top" alt="Fezandipiti" /> &nbsp; **Fezandipiti** · Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon.
 <!-- POKEMON-FACT:END -->
 
 ## links
