@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png" height="48" align="top" alt="Fezandipiti" /> &nbsp; **Fezandipiti** · Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png" height="48" align="top" alt="Jumpluff" /> &nbsp; **Jumpluff** · Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.
 <!-- POKEMON-FACT:END -->
 
 ## links
