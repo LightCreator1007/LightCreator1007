@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png" height="48" align="top" alt="Jumpluff" /> &nbsp; **Jumpluff** · Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png" height="48" align="top" alt="Sharpedo" /> &nbsp; **Sharpedo** · It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.
 <!-- POKEMON-FACT:END -->
 
 ## links
