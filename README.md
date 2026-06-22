@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png" height="48" align="top" alt="Sharpedo" /> &nbsp; **Sharpedo** · It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png" height="48" align="top" alt="Rhyperior" /> &nbsp; **Rhyperior** · From holes in its palms, it fires out GEODUDE. Its carapace can withstand volcanic eruptions.
 <!-- POKEMON-FACT:END -->
 
 ## links
