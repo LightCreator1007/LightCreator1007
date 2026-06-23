@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png" height="48" align="top" alt="Rhyperior" /> &nbsp; **Rhyperior** · From holes in its palms, it fires out GEODUDE. Its carapace can withstand volcanic eruptions.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png" height="48" align="top" alt="Thundurus" /> &nbsp; **Thundurus** · The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.
 <!-- POKEMON-FACT:END -->
 
 ## links
