@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png" height="48" align="top" alt="Thundurus" /> &nbsp; **Thundurus** · The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png" height="48" align="top" alt="Victini" /> &nbsp; **Victini** · It creates an unlimited supply of energy inside its body, which it shares with those who touch it.
 <!-- POKEMON-FACT:END -->
 
 ## links
