@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png" height="48" align="top" alt="Victini" /> &nbsp; **Victini** · It creates an unlimited supply of energy inside its body, which it shares with those who touch it.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png" height="48" align="top" alt="Grapploct" /> &nbsp; **Grapploct** · A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.
 <!-- POKEMON-FACT:END -->
 
 ## links
