@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png" height="48" align="top" alt="Grapploct" /> &nbsp; **Grapploct** · A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png" height="48" align="top" alt="Togetic" /> &nbsp; **Togetic** · It grows dispirited if it is not with kind people. It can float in midair without moving its wings.
 <!-- POKEMON-FACT:END -->
 
 ## links
