@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png" height="48" align="top" alt="Togetic" /> &nbsp; **Togetic** · It grows dispirited if it is not with kind people. It can float in midair without moving its wings.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png" height="48" align="top" alt="Frigibax" /> &nbsp; **Frigibax** · Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.
 <!-- POKEMON-FACT:END -->
 
 ## links
