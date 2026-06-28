@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png" height="48" align="top" alt="Frigibax" /> &nbsp; **Frigibax** · Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png" height="48" align="top" alt="Snorunt" /> &nbsp; **Snorunt** · Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door.
 <!-- POKEMON-FACT:END -->
 
 ## links
