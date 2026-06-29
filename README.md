@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png" height="48" align="top" alt="Snorunt" /> &nbsp; **Snorunt** · Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png" height="48" align="top" alt="Feebas" /> &nbsp; **Feebas** · It is famous for its shabby appearance. While populous, they tend to cluster in set locations.
 <!-- POKEMON-FACT:END -->
 
 ## links
