@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png" height="48" align="top" alt="Feebas" /> &nbsp; **Feebas** · It is famous for its shabby appearance. While populous, they tend to cluster in set locations.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png" height="48" align="top" alt="Wobbuffet" /> &nbsp; **Wobbuffet** · It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.
 <!-- POKEMON-FACT:END -->
 
 ## links
