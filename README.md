@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png" height="48" align="top" alt="Wobbuffet" /> &nbsp; **Wobbuffet** · It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png" height="48" align="top" alt="Indeedee" /> &nbsp; **Indeedee** · Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.
 <!-- POKEMON-FACT:END -->
 
 ## links
