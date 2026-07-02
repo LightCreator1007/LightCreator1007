@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png" height="48" align="top" alt="Indeedee" /> &nbsp; **Indeedee** · Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png" height="48" align="top" alt="Marshtomp" /> &nbsp; **Marshtomp** · The surface of MARSHTOMP’s body is enveloped by a thin, sticky film that enables it to live on land. This POKéMON plays in mud on beaches when the ocean tide is low.
 <!-- POKEMON-FACT:END -->
 
 ## links
