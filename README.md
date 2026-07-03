@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png" height="48" align="top" alt="Marshtomp" /> &nbsp; **Marshtomp** · The surface of MARSHTOMP’s body is enveloped by a thin, sticky film that enables it to live on land. This POKéMON plays in mud on beaches when the ocean tide is low.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png" height="48" align="top" alt="Swablu" /> &nbsp; **Swablu** · It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.
 <!-- POKEMON-FACT:END -->
 
 ## links
