@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png" height="48" align="top" alt="Swablu" /> &nbsp; **Swablu** · It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png" height="48" align="top" alt="Palossand" /> &nbsp; **Palossand** · Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.
 <!-- POKEMON-FACT:END -->
 
 ## links
