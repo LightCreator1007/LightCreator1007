@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-stats-extended-frontend-khaki.vercel.app/api?username=LightCreator1007&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&hide=contribs&v=1" alt="stats" />
-<img height="160" src="https://github-stats-extended-frontend-khaki.vercel.app/api/top-langs/?username=LightCreator1007&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&langs_count=8&v=1" alt="top languages" />
+<img height="160" src="https://github-stats-extended-frontend-one.vercel.app/api?username=LightCreator1007&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&hide=contribs&v=1" alt="stats" />
+<img height="160" src="https://github-stats-extended-frontend-one.vercel.app/api/top-langs/?username=LightCreator1007&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&langs_count=8&v=1" alt="top languages" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LightCreator1007&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true&custom_title=contribution%20activity" alt="activity graph" />
 
