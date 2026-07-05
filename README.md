@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png" height="48" align="top" alt="Palossand" /> &nbsp; **Palossand** · Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png" height="48" align="top" alt="Drilbur" /> &nbsp; **Drilbur** · It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
 <!-- POKEMON-FACT:END -->
 
 ## links
