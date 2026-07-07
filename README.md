@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png" height="48" align="top" alt="Applin" /> &nbsp; **Applin** · As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png" height="48" align="top" alt="Diggersby" /> &nbsp; **Diggersby** · With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction.
 <!-- POKEMON-FACT:END -->
 
 ## links
