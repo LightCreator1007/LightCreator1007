@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png" height="48" align="top" alt="Diggersby" /> &nbsp; **Diggersby** · With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/963.png" height="48" align="top" alt="Finizen" /> &nbsp; **Finizen** · It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.
 <!-- POKEMON-FACT:END -->
 
 ## links
