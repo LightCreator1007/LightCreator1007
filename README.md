@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png" height="48" align="top" alt="Ho Oh" /> &nbsp; **Ho Oh** · A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png" height="48" align="top" alt="Jynx" /> &nbsp; **Jynx** · Its cries sound like human speech. However, it is impossible to tell what it is trying to say.
 <!-- POKEMON-FACT:END -->
 
 ## links
