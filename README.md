@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png" height="48" align="top" alt="Jynx" /> &nbsp; **Jynx** · Its cries sound like human speech. However, it is impossible to tell what it is trying to say.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png" height="48" align="top" alt="Seel" /> &nbsp; **Seel** · The protruding horn on its head is very hard. It is used for bashing through thick ice.
 <!-- POKEMON-FACT:END -->
 
 ## links
