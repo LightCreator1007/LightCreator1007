@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png" height="48" align="top" alt="Seel" /> &nbsp; **Seel** · The protruding horn on its head is very hard. It is used for bashing through thick ice.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png" height="48" align="top" alt="Dugtrio" /> &nbsp; **Dugtrio** · A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.
 <!-- POKEMON-FACT:END -->
 
 ## links
