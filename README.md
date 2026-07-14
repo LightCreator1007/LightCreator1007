@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png" height="48" align="top" alt="Dugtrio" /> &nbsp; **Dugtrio** · A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png" height="48" align="top" alt="Voltorb" /> &nbsp; **Voltorb** · VOLTORB was first sighted at a company that manufactures POKé BALLS. The link between that sighting and the fact that this POKéMON looks very similar to a POKé BALL remains a mystery.
 <!-- POKEMON-FACT:END -->
 
 ## links
