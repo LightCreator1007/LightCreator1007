@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" height="48" align="top" alt="Pikachu" /> &nbsp; **Pikachu** · When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png" height="48" align="top" alt="Minun" /> &nbsp; **Minun** · It cheers on friends. If its friends are losing, its body lets off more and more sparks.
 <!-- POKEMON-FACT:END -->
 
 ## links
