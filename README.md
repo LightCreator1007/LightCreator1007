@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png" height="48" align="top" alt="Minun" /> &nbsp; **Minun** · It cheers on friends. If its friends are losing, its body lets off more and more sparks.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png" height="48" align="top" alt="Silicobra" /> &nbsp; **Silicobra** · It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.
 <!-- POKEMON-FACT:END -->
 
 ## links
