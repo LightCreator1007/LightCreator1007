@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png" height="48" align="top" alt="Silicobra" /> &nbsp; **Silicobra** · It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png" height="48" align="top" alt="Dragapult" /> &nbsp; **Dragapult** · When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
 <!-- POKEMON-FACT:END -->
 
 ## links
