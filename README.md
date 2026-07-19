@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png" height="48" align="top" alt="Dragapult" /> &nbsp; **Dragapult** · When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png" height="48" align="top" alt="Arceus" /> &nbsp; **Arceus** · It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.
 <!-- POKEMON-FACT:END -->
 
 ## links
