@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png" height="48" align="top" alt="Arceus" /> &nbsp; **Arceus** · It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png" height="48" align="top" alt="Blitzle" /> &nbsp; **Blitzle** · Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.
 <!-- POKEMON-FACT:END -->
 
 ## links
