@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png" height="48" align="top" alt="Blitzle" /> &nbsp; **Blitzle** · Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png" height="48" align="top" alt="Celebi" /> &nbsp; **Celebi** · It has the power to travel across time, but it is said to appear only in peaceful times.
 <!-- POKEMON-FACT:END -->
 
 ## links
