@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png" height="48" align="top" alt="Celebi" /> &nbsp; **Celebi** · It has the power to travel across time, but it is said to appear only in peaceful times.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png" height="48" align="top" alt="Landorus" /> &nbsp; **Landorus** · From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.
 <!-- POKEMON-FACT:END -->
 
 ## links
