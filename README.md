@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png" height="48" align="top" alt="Landorus" /> &nbsp; **Landorus** · From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png" height="48" align="top" alt="Oinkologne" /> &nbsp; **Oinkologne** · Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.
 <!-- POKEMON-FACT:END -->
 
 ## links
