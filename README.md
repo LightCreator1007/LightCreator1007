@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png" height="48" align="top" alt="Oinkologne" /> &nbsp; **Oinkologne** · Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png" height="48" align="top" alt="Cottonee" /> &nbsp; **Cottonee** · Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.
 <!-- POKEMON-FACT:END -->
 
 ## links
