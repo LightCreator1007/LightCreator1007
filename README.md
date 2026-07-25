@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png" height="48" align="top" alt="Cottonee" /> &nbsp; **Cottonee** · Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png" height="48" align="top" alt="Brambleghast" /> &nbsp; **Brambleghast** · It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.
 <!-- POKEMON-FACT:END -->
 
 ## links
