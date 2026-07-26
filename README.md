@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png" height="48" align="top" alt="Brambleghast" /> &nbsp; **Brambleghast** · It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png" height="48" align="top" alt="Oshawott" /> &nbsp; **Oshawott** · This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name ”scalchop”.
 <!-- POKEMON-FACT:END -->
 
 ## links
