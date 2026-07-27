@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png" height="48" align="top" alt="Oshawott" /> &nbsp; **Oshawott** · This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name ”scalchop”.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/837.png" height="48" align="top" alt="Rolycoly" /> &nbsp; **Rolycoly** · It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.
 <!-- POKEMON-FACT:END -->
 
 ## links
