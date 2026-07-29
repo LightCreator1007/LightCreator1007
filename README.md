@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png" height="48" align="top" alt="Celesteela" /> &nbsp; **Celesteela** · It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png" height="48" align="top" alt="Skiploom" /> &nbsp; **Skiploom** · The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.
 <!-- POKEMON-FACT:END -->
 
 ## links
