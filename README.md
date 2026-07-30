@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png" height="48" align="top" alt="Skiploom" /> &nbsp; **Skiploom** · The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png" height="48" align="top" alt="Scream Tail" /> &nbsp; **Scream Tail** · It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago.
 <!-- POKEMON-FACT:END -->
 
 ## links
