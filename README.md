@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png" height="48" align="top" alt="Scream Tail" /> &nbsp; **Scream Tail** · It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png" height="48" align="top" alt="Sandshrew" /> &nbsp; **Sandshrew** · It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.
 <!-- POKEMON-FACT:END -->
 
 ## links
