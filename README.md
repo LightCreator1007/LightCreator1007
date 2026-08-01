@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png" height="48" align="top" alt="Sandshrew" /> &nbsp; **Sandshrew** · It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png" height="48" align="top" alt="Trevenant" /> &nbsp; **Trevenant** · It can control trees at will. It will trap people who harm the forest, so they can never leave.
 <!-- POKEMON-FACT:END -->
 
 ## links
