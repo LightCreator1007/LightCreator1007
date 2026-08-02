@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png" height="48" align="top" alt="Trevenant" /> &nbsp; **Trevenant** · It can control trees at will. It will trap people who harm the forest, so they can never leave.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png" height="48" align="top" alt="Phanpy" /> &nbsp; **Phanpy** · PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These POKéMON can be seen drying their soaking-wet bodies at the edge of water.
 <!-- POKEMON-FACT:END -->
 
 ## links
