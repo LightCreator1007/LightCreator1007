@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png" height="48" align="top" alt="Phanpy" /> &nbsp; **Phanpy** · PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These POKéMON can be seen drying their soaking-wet bodies at the edge of water.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png" height="48" align="top" alt="Ampharos" /> &nbsp; **Ampharos** · AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this POKéMON to send signals back and forth with others far away.
 <!-- POKEMON-FACT:END -->
 
 ## links
