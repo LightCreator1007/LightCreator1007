@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png" height="48" align="top" alt="Ampharos" /> &nbsp; **Ampharos** · AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this POKéMON to send signals back and forth with others far away.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png" height="48" align="top" alt="Shieldon" /> &nbsp; **Shieldon** · It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.
 <!-- POKEMON-FACT:END -->
 
 ## links
