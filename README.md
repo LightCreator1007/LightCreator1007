@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png" height="48" align="top" alt="Shieldon" /> &nbsp; **Shieldon** · It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png" height="48" align="top" alt="Glalie" /> &nbsp; **Glalie** · It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
 <!-- POKEMON-FACT:END -->
 
 ## links
