@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png" height="48" align="top" alt="Glalie" /> &nbsp; **Glalie** · It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png" height="48" align="top" alt="Bidoof" /> &nbsp; **Bidoof** · With nerves of steel, nothing can perturb it. It is more agile and active than it appears.
 <!-- POKEMON-FACT:END -->
 
 ## links
