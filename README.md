@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png" height="48" align="top" alt="Bidoof" /> &nbsp; **Bidoof** · With nerves of steel, nothing can perturb it. It is more agile and active than it appears.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/971.png" height="48" align="top" alt="Greavard" /> &nbsp; **Greavard** · It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.
 <!-- POKEMON-FACT:END -->
 
 ## links
