@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/971.png" height="48" align="top" alt="Greavard" /> &nbsp; **Greavard** · It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png" height="48" align="top" alt="Staryu" /> &nbsp; **Staryu** · In many places, there are folktales of stardust falling into the ocean and becoming Staryu.
 <!-- POKEMON-FACT:END -->
 
 ## links
