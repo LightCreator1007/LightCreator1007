@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png" height="48" align="top" alt="Staryu" /> &nbsp; **Staryu** · In many places, there are folktales of stardust falling into the ocean and becoming Staryu.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png" height="48" align="top" alt="Lechonk" /> &nbsp; **Lechonk** · This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
 <!-- POKEMON-FACT:END -->
 
 ## links
