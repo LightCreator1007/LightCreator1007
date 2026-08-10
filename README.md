@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png" height="48" align="top" alt="Lechonk" /> &nbsp; **Lechonk** · This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png" height="48" align="top" alt="Toucannon" /> &nbsp; **Toucannon** · When it battles, its beak heats up. The temperature can easily exceed 212 degrees Fahrenheit, causing severe burns when it hits.
 <!-- POKEMON-FACT:END -->
 
 ## links
