@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png" height="48" align="top" alt="Toucannon" /> &nbsp; **Toucannon** · When it battles, its beak heats up. The temperature can easily exceed 212 degrees Fahrenheit, causing severe burns when it hits.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png" height="48" align="top" alt="Phanpy" /> &nbsp; **Phanpy** · It is strong despite its compact size. It can easily pick up and carry an adult human on its back.
 <!-- POKEMON-FACT:END -->
 
 ## links
