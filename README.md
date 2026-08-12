@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png" height="48" align="top" alt="Phanpy" /> &nbsp; **Phanpy** · It is strong despite its compact size. It can easily pick up and carry an adult human on its back.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png" height="48" align="top" alt="Cutiefly" /> &nbsp; **Cutiefly** · Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur’s pollen.
 <!-- POKEMON-FACT:END -->
 
 ## links
