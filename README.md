@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png" height="48" align="top" alt="Cutiefly" /> &nbsp; **Cutiefly** · Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur’s pollen.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png" height="48" align="top" alt="Staravia" /> &nbsp; **Staravia** · They maintain huge flocks, although fierce scuffles break out between various flocks.
 <!-- POKEMON-FACT:END -->
 
 ## links
