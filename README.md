@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png" height="48" align="top" alt="Staravia" /> &nbsp; **Staravia** · They maintain huge flocks, although fierce scuffles break out between various flocks.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png" height="48" align="top" alt="Kubfu" /> &nbsp; **Kubfu** · If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.
 <!-- POKEMON-FACT:END -->
 
 ## links
