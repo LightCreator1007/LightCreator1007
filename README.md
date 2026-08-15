@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png" height="48" align="top" alt="Kubfu" /> &nbsp; **Kubfu** · If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png" height="48" align="top" alt="Tadbulb" /> &nbsp; **Tadbulb** · Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
 <!-- POKEMON-FACT:END -->
 
 ## links
