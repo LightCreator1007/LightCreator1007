@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png" height="48" align="top" alt="Tadbulb" /> &nbsp; **Tadbulb** · Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png" height="48" align="top" alt="Ting Lu" /> &nbsp; **Ting Lu** · It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.
 <!-- POKEMON-FACT:END -->
 
 ## links
