@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png" height="48" align="top" alt="Ting Lu" /> &nbsp; **Ting Lu** · It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png" height="48" align="top" alt="Charcadet" /> &nbsp; **Charcadet** · Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.
 <!-- POKEMON-FACT:END -->
 
 ## links
