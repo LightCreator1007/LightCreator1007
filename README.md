@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png" height="48" align="top" alt="Charcadet" /> &nbsp; **Charcadet** · Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png" height="48" align="top" alt="Girafarig" /> &nbsp; **Girafarig** · Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.
 <!-- POKEMON-FACT:END -->
 
 ## links
