@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png" height="48" align="top" alt="Girafarig" /> &nbsp; **Girafarig** · Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png" height="48" align="top" alt="Lechonk" /> &nbsp; **Lechonk** · This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
 <!-- POKEMON-FACT:END -->
 
 ## links
