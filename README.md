@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png" height="48" align="top" alt="Lechonk" /> &nbsp; **Lechonk** · This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png" height="48" align="top" alt="Finneon" /> &nbsp; **Finneon** · When night falls, their pink patterns begin to shine. They’re popular with divers, so there are resorts that feed them to keep them close.
 <!-- POKEMON-FACT:END -->
 
 ## links
