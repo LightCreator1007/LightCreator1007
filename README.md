@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png" height="48" align="top" alt="Finneon" /> &nbsp; **Finneon** · When night falls, their pink patterns begin to shine. They’re popular with divers, so there are resorts that feed them to keep them close.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png" height="48" align="top" alt="Rattata" /> &nbsp; **Rattata** · Will chew on any­ thing with its fangs. If you see one, it is certain that 40 more live in the area.
 <!-- POKEMON-FACT:END -->
 
 ## links
