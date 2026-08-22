@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png" height="48" align="top" alt="Rattata" /> &nbsp; **Rattata** · Will chew on any­ thing with its fangs. If you see one, it is certain that 40 more live in the area.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png" height="48" align="top" alt="Snubbull" /> &nbsp; **Snubbull** · By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.
 <!-- POKEMON-FACT:END -->
 
 ## links
