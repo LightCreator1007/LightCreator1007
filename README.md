@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png" height="48" align="top" alt="Snubbull" /> &nbsp; **Snubbull** · By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png" height="48" align="top" alt="Mudkip" /> &nbsp; **Mudkip** · Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.
 <!-- POKEMON-FACT:END -->
 
 ## links
