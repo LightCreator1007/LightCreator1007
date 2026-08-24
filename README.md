@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png" height="48" align="top" alt="Mudkip" /> &nbsp; **Mudkip** · Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png" height="48" align="top" alt="Gallade" /> &nbsp; **Gallade** · Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.
 <!-- POKEMON-FACT:END -->
 
 ## links
