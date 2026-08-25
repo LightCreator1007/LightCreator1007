@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png" height="48" align="top" alt="Gallade" /> &nbsp; **Gallade** · Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png" height="48" align="top" alt="Exeggutor" /> &nbsp; **Exeggutor** · It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.
 <!-- POKEMON-FACT:END -->
 
 ## links
