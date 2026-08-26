@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png" height="48" align="top" alt="Exeggutor" /> &nbsp; **Exeggutor** · It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png" height="48" align="top" alt="Swellow" /> &nbsp; **Swellow** · A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.
 <!-- POKEMON-FACT:END -->
 
 ## links
