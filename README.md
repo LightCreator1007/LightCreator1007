@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png" height="48" align="top" alt="Swellow" /> &nbsp; **Swellow** · A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png" height="48" align="top" alt="Gigalith" /> &nbsp; **Gigalith** · The solar rays it absorbs are processed in its energy core and fired as a ball of light.
 <!-- POKEMON-FACT:END -->
 
 ## links
