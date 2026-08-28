@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png" height="48" align="top" alt="Gigalith" /> &nbsp; **Gigalith** · The solar rays it absorbs are processed in its energy core and fired as a ball of light.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/817.png" height="48" align="top" alt="Drizzile" /> &nbsp; **Drizzile** · A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.
 <!-- POKEMON-FACT:END -->
 
 ## links
