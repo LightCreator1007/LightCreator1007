@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/817.png" height="48" align="top" alt="Drizzile" /> &nbsp; **Drizzile** · A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png" height="48" align="top" alt="Scraggy" /> &nbsp; **Scraggy** · Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.
 <!-- POKEMON-FACT:END -->
 
 ## links
