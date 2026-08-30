@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png" height="48" align="top" alt="Scraggy" /> &nbsp; **Scraggy** · Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/955.png" height="48" align="top" alt="Flittle" /> &nbsp; **Flittle** · It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.
 <!-- POKEMON-FACT:END -->
 
 ## links
