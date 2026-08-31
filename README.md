@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/955.png" height="48" align="top" alt="Flittle" /> &nbsp; **Flittle** · It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png" height="48" align="top" alt="Conkeldurr" /> &nbsp; **Conkeldurr** · When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.
 <!-- POKEMON-FACT:END -->
 
 ## links
