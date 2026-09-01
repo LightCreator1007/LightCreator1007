@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png" height="48" align="top" alt="Conkeldurr" /> &nbsp; **Conkeldurr** · When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png" height="48" align="top" alt="Raichu" /> &nbsp; **Raichu** · It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.
 <!-- POKEMON-FACT:END -->
 
 ## links
