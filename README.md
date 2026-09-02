@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png" height="48" align="top" alt="Raichu" /> &nbsp; **Raichu** · It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png" height="48" align="top" alt="Rattata" /> &nbsp; **Rattata** · Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.
 <!-- POKEMON-FACT:END -->
 
 ## links
