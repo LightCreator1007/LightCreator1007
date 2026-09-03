@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png" height="48" align="top" alt="Rattata" /> &nbsp; **Rattata** · Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png" height="48" align="top" alt="Totodile" /> &nbsp; **Totodile** · It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
 <!-- POKEMON-FACT:END -->
 
 ## links
