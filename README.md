@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png" height="48" align="top" alt="Totodile" /> &nbsp; **Totodile** · It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png" height="48" align="top" alt="Pelipper" /> &nbsp; **Pelipper** · It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!
 <!-- POKEMON-FACT:END -->
 
 ## links
