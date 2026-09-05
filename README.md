@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png" height="48" align="top" alt="Pelipper" /> &nbsp; **Pelipper** · It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" height="48" align="top" alt="Parasect" /> &nbsp; **Parasect** · Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.
 <!-- POKEMON-FACT:END -->
 
 ## links
