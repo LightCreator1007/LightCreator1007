@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" height="48" align="top" alt="Parasect" /> &nbsp; **Parasect** · Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png" height="48" align="top" alt="Nidoran M" /> &nbsp; **Nidoran M** · Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with.
 <!-- POKEMON-FACT:END -->
 
 ## links
