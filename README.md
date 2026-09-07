@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png" height="48" align="top" alt="Nidoran M" /> &nbsp; **Nidoran M** · Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png" height="48" align="top" alt="Raichu" /> &nbsp; **Raichu** · If the electric pouches in its cheeks become fully charged, both ears will stand straight up.
 <!-- POKEMON-FACT:END -->
 
 ## links
