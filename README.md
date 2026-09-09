@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png" height="48" align="top" alt="Pidgey" /> &nbsp; **Pidgey** · Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" height="48" align="top" alt="Machamp" /> &nbsp; **Machamp** · It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
 <!-- POKEMON-FACT:END -->
 
 ## links
