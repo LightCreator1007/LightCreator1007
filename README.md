@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" height="48" align="top" alt="Machamp" /> &nbsp; **Machamp** · It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png" height="48" align="top" alt="Drapion" /> &nbsp; **Drapion** · It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.
 <!-- POKEMON-FACT:END -->
 
 ## links
