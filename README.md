@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png" height="48" align="top" alt="Drapion" /> &nbsp; **Drapion** · It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png" height="48" align="top" alt="Salazzle" /> &nbsp; **Salazzle** · For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.
 <!-- POKEMON-FACT:END -->
 
 ## links
