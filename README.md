@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png" height="48" align="top" alt="Salazzle" /> &nbsp; **Salazzle** · For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" height="48" align="top" alt="Sceptile" /> &nbsp; **Sceptile** · The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.
 <!-- POKEMON-FACT:END -->
 
 ## links
