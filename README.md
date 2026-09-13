@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" height="48" align="top" alt="Sceptile" /> &nbsp; **Sceptile** · The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png" height="48" align="top" alt="Gourgeist" /> &nbsp; **Gourgeist** · Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.
 <!-- POKEMON-FACT:END -->
 
 ## links
