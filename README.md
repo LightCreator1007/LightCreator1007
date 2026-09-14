@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png" height="48" align="top" alt="Gourgeist" /> &nbsp; **Gourgeist** · Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png" height="48" align="top" alt="Duosion" /> &nbsp; **Duosion** · When their two divided brains think the same thoughts, their psychic power is maximized.
 <!-- POKEMON-FACT:END -->
 
 ## links
