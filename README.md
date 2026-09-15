@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png" height="48" align="top" alt="Duosion" /> &nbsp; **Duosion** · When their two divided brains think the same thoughts, their psychic power is maximized.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png" height="48" align="top" alt="Beldum" /> &nbsp; **Beldum** · It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.
 <!-- POKEMON-FACT:END -->
 
 ## links
