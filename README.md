@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png" height="48" align="top" alt="Beldum" /> &nbsp; **Beldum** · It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/933.png" height="48" align="top" alt="Naclstack" /> &nbsp; **Naclstack** · It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet.
 <!-- POKEMON-FACT:END -->
 
 ## links
