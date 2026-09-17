@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/933.png" height="48" align="top" alt="Naclstack" /> &nbsp; **Naclstack** · It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png" height="48" align="top" alt="Scovillain" /> &nbsp; **Scovillain** · The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it.
 <!-- POKEMON-FACT:END -->
 
 ## links
