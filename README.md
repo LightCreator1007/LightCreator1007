@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png" height="48" align="top" alt="Scovillain" /> &nbsp; **Scovillain** · The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png" height="48" align="top" alt="Primarina" /> &nbsp; **Primarina** · To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.
 <!-- POKEMON-FACT:END -->
 
 ## links
