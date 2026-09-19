@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png" height="48" align="top" alt="Primarina" /> &nbsp; **Primarina** · To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png" height="48" align="top" alt="Emolga" /> &nbsp; **Emolga** · The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.
 <!-- POKEMON-FACT:END -->
 
 ## links
