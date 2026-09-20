@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png" height="48" align="top" alt="Emolga" /> &nbsp; **Emolga** · The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png" height="48" align="top" alt="Swadloon" /> &nbsp; **Swadloon** · Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.
 <!-- POKEMON-FACT:END -->
 
 ## links
