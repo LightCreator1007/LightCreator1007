@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png" height="48" align="top" alt="Swadloon" /> &nbsp; **Swadloon** · Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png" height="48" align="top" alt="Gabite" /> &nbsp; **Gabite** · It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.
 <!-- POKEMON-FACT:END -->
 
 ## links
