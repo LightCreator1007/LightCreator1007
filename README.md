@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png" height="48" align="top" alt="Gabite" /> &nbsp; **Gabite** · It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png" height="48" align="top" alt="Marshadow" /> &nbsp; **Marshadow** · It lurks in the shadows of others, copying their movements and powers. This Pokémon is craven and cowering.
 <!-- POKEMON-FACT:END -->
 
 ## links
