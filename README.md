@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png" height="48" align="top" alt="Marshadow" /> &nbsp; **Marshadow** · It lurks in the shadows of others, copying their movements and powers. This Pokémon is craven and cowering.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png" height="48" align="top" alt="Ursaluna" /> &nbsp; **Ursaluna** · I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
 <!-- POKEMON-FACT:END -->
 
 ## links
