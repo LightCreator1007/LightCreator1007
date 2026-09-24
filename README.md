@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png" height="48" align="top" alt="Ursaluna" /> &nbsp; **Ursaluna** · I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png" height="48" align="top" alt="Nidoking" /> &nbsp; **Nidoking** · Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.
 <!-- POKEMON-FACT:END -->
 
 ## links
