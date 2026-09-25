@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png" height="48" align="top" alt="Nidoking" /> &nbsp; **Nidoking** · Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png" height="48" align="top" alt="Drilbur" /> &nbsp; **Drilbur** · It brings its claws together and whirls around at high speed before rushing toward its prey.
 <!-- POKEMON-FACT:END -->
 
 ## links
