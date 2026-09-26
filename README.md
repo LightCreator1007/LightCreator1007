@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png" height="48" align="top" alt="Drilbur" /> &nbsp; **Drilbur** · It brings its claws together and whirls around at high speed before rushing toward its prey.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png" height="48" align="top" alt="Dugtrio" /> &nbsp; **Dugtrio** · These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.
 <!-- POKEMON-FACT:END -->
 
 ## links
