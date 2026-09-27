@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png" height="48" align="top" alt="Dugtrio" /> &nbsp; **Dugtrio** · These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png" height="48" align="top" alt="Crawdaunt" /> &nbsp; **Crawdaunt** · A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.
 <!-- POKEMON-FACT:END -->
 
 ## links
