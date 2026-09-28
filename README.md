@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png" height="48" align="top" alt="Crawdaunt" /> &nbsp; **Crawdaunt** · A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png" height="48" align="top" alt="Furret" /> &nbsp; **Furret** · Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.
 <!-- POKEMON-FACT:END -->
 
 ## links
