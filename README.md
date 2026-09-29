@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png" height="48" align="top" alt="Furret" /> &nbsp; **Furret** · Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png" height="48" align="top" alt="Remoraid" /> &nbsp; **Remoraid** · This Pokémon clings to Mantine and shares in its prosperity. When its Mantine is attacked, Remoraid will fight alongside it!
 <!-- POKEMON-FACT:END -->
 
 ## links
