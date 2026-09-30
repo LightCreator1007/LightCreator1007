@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png" height="48" align="top" alt="Remoraid" /> &nbsp; **Remoraid** · This Pokémon clings to Mantine and shares in its prosperity. When its Mantine is attacked, Remoraid will fight alongside it!
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png" height="48" align="top" alt="Liepard" /> &nbsp; **Liepard** · Their beautiful form comes from the muscles they have developed. They run silently in the night.
 <!-- POKEMON-FACT:END -->
 
 ## links
