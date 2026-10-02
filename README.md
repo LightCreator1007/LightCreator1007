@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png" height="48" align="top" alt="Zubat" /> &nbsp; **Zubat** · Their skin is so thin that they’ll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another’s bodies.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png" height="48" align="top" alt="Maschiff" /> &nbsp; **Maschiff** · It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.
 <!-- POKEMON-FACT:END -->
 
 ## links
