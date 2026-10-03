@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png" height="48" align="top" alt="Maschiff" /> &nbsp; **Maschiff** · It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/899.png" height="48" align="top" alt="Wyrdeer" /> &nbsp; **Wyrdeer** · The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.
 <!-- POKEMON-FACT:END -->
 
 ## links
