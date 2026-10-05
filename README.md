@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png" height="48" align="top" alt="Bidoof" /> &nbsp; **Bidoof** · A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png" height="48" align="top" alt="Wynaut" /> &nbsp; **Wynaut** · It grows strong by pushing up against others en masse. It loves eating sweet fruit.
 <!-- POKEMON-FACT:END -->
 
 ## links
