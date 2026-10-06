@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png" height="48" align="top" alt="Wynaut" /> &nbsp; **Wynaut** · It grows strong by pushing up against others en masse. It loves eating sweet fruit.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png" height="48" align="top" alt="Accelgor" /> &nbsp; **Accelgor** · Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.
 <!-- POKEMON-FACT:END -->
 
 ## links
