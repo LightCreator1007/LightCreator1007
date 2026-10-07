@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png" height="48" align="top" alt="Accelgor" /> &nbsp; **Accelgor** · Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png" height="48" align="top" alt="Drampa" /> &nbsp; **Drampa** · The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.
 <!-- POKEMON-FACT:END -->
 
 ## links
