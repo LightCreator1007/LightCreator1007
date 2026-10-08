@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png" height="48" align="top" alt="Drampa" /> &nbsp; **Drampa** · The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png" height="48" align="top" alt="Volcanion" /> &nbsp; **Volcanion** · It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.
 <!-- POKEMON-FACT:END -->
 
 ## links
