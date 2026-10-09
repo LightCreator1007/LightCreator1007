@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png" height="48" align="top" alt="Volcanion" /> &nbsp; **Volcanion** · It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png" height="48" align="top" alt="Charmeleon" /> &nbsp; **Charmeleon** · It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
 <!-- POKEMON-FACT:END -->
 
 ## links
