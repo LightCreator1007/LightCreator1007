@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png" height="48" align="top" alt="Charmeleon" /> &nbsp; **Charmeleon** · It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png" height="48" align="top" alt="Dedenne" /> &nbsp; **Dedenne** · Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.
 <!-- POKEMON-FACT:END -->
 
 ## links
