@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png" height="48" align="top" alt="Dedenne" /> &nbsp; **Dedenne** · Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" height="48" align="top" alt="Rayquaza" /> &nbsp; **Rayquaza** · It lives in the ozone layer far above the clouds and cannot be seen from the ground.
 <!-- POKEMON-FACT:END -->
 
 ## links
