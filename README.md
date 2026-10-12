@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" height="48" align="top" alt="Rayquaza" /> &nbsp; **Rayquaza** · It lives in the ozone layer far above the clouds and cannot be seen from the ground.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png" height="48" align="top" alt="Carvanha" /> &nbsp; **Carvanha** · CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.
 <!-- POKEMON-FACT:END -->
 
 ## links
