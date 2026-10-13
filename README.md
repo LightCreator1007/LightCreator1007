@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png" height="48" align="top" alt="Carvanha" /> &nbsp; **Carvanha** · CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png" height="48" align="top" alt="Froslass" /> &nbsp; **Froslass** · It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.
 <!-- POKEMON-FACT:END -->
 
 ## links
