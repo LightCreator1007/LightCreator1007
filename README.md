@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png" height="48" align="top" alt="Froslass" /> &nbsp; **Froslass** · It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png" height="48" align="top" alt="Lanturn" /> &nbsp; **Lanturn** · Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”
 <!-- POKEMON-FACT:END -->
 
 ## links
