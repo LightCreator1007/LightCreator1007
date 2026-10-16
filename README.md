@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/997.png" height="48" align="top" alt="Arctibax" /> &nbsp; **Arctibax** · It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png" height="48" align="top" alt="Venusaur" /> &nbsp; **Venusaur** · It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.
 <!-- POKEMON-FACT:END -->
 
 ## links
