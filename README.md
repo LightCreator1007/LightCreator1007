@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png" height="48" align="top" alt="Venusaur" /> &nbsp; **Venusaur** · It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png" height="48" align="top" alt="Greedent" /> &nbsp; **Greedent** · It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.
 <!-- POKEMON-FACT:END -->
 
 ## links
