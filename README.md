@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png" height="48" align="top" alt="Greedent" /> &nbsp; **Greedent** · It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png" height="48" align="top" alt="Delphox" /> &nbsp; **Delphox** · Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.
 <!-- POKEMON-FACT:END -->
 
 ## links
