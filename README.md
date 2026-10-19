@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png" height="48" align="top" alt="Delphox" /> &nbsp; **Delphox** · Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png" height="48" align="top" alt="Gabite" /> &nbsp; **Gabite** · As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.
 <!-- POKEMON-FACT:END -->
 
 ## links
