@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png" height="48" align="top" alt="Gabite" /> &nbsp; **Gabite** · As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png" height="48" align="top" alt="Forretress" /> &nbsp; **Forretress** · Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.
 <!-- POKEMON-FACT:END -->
 
 ## links
