@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png" height="48" align="top" alt="Forretress" /> &nbsp; **Forretress** · Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png" height="48" align="top" alt="Cramorant" /> &nbsp; **Cramorant** · It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.
 <!-- POKEMON-FACT:END -->
 
 ## links
