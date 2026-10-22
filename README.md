@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png" height="48" align="top" alt="Cramorant" /> &nbsp; **Cramorant** · It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png" height="48" align="top" alt="Patrat" /> &nbsp; **Patrat** · Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.
 <!-- POKEMON-FACT:END -->
 
 ## links
