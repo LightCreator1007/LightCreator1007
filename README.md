@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png" height="48" align="top" alt="Patrat" /> &nbsp; **Patrat** · Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png" height="48" align="top" alt="Eiscue" /> &nbsp; **Eiscue** · It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.
 <!-- POKEMON-FACT:END -->
 
 ## links
