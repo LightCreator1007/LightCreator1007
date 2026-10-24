@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png" height="48" align="top" alt="Eiscue" /> &nbsp; **Eiscue** · It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png" height="48" align="top" alt="Cramorant" /> &nbsp; **Cramorant** · This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.
 <!-- POKEMON-FACT:END -->
 
 ## links
