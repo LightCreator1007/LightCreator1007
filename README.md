@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png" height="48" align="top" alt="Cramorant" /> &nbsp; **Cramorant** · This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png" height="48" align="top" alt="Charcadet" /> &nbsp; **Charcadet** · Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat.
 <!-- POKEMON-FACT:END -->
 
 ## links
