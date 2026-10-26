@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png" height="48" align="top" alt="Charcadet" /> &nbsp; **Charcadet** · Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png" height="48" align="top" alt="Starmie" /> &nbsp; **Starmie** · Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.
 <!-- POKEMON-FACT:END -->
 
 ## links
