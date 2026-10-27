@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png" height="48" align="top" alt="Starmie" /> &nbsp; **Starmie** · Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png" height="48" align="top" alt="Musharna" /> &nbsp; **Musharna** · The mist emanating from their foreheads is packed with the dreams of people and Pokémon.
 <!-- POKEMON-FACT:END -->
 
 ## links
