@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png" height="48" align="top" alt="Melmetal" /> &nbsp; **Melmetal** · Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png" height="48" align="top" alt="Medicham" /> &nbsp; **Medicham** · It gains the ability to see the aura of its opponents by honing its mind through starvation.
 <!-- POKEMON-FACT:END -->
 
 ## links
