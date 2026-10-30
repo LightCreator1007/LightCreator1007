@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png" height="48" align="top" alt="Medicham" /> &nbsp; **Medicham** · It gains the ability to see the aura of its opponents by honing its mind through starvation.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png" height="48" align="top" alt="Tangrowth" /> &nbsp; **Tangrowth** · It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.
 <!-- POKEMON-FACT:END -->
 
 ## links
