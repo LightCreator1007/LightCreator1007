@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png" height="48" align="top" alt="Tangrowth" /> &nbsp; **Tangrowth** · It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png" height="48" align="top" alt="Honedge" /> &nbsp; **Honedge** · The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.
 <!-- POKEMON-FACT:END -->
 
 ## links
