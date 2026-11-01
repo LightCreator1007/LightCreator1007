@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png" height="48" align="top" alt="Honedge" /> &nbsp; **Honedge** · The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/830.png" height="48" align="top" alt="Eldegoss" /> &nbsp; **Eldegoss** · The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.
 <!-- POKEMON-FACT:END -->
 
 ## links
