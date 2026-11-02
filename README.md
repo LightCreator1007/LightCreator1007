@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/830.png" height="48" align="top" alt="Eldegoss" /> &nbsp; **Eldegoss** · The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png" height="48" align="top" alt="Gastrodon" /> &nbsp; **Gastrodon** · Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.
 <!-- POKEMON-FACT:END -->
 
 ## links
