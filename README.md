@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png" height="48" align="top" alt="Gastrodon" /> &nbsp; **Gastrodon** · Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png" height="48" align="top" alt="Sentret" /> &nbsp; **Sentret** · A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings.
 <!-- POKEMON-FACT:END -->
 
 ## links
