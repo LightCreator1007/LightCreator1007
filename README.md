@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png" height="48" align="top" alt="Sentret" /> &nbsp; **Sentret** · A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png" height="48" align="top" alt="Empoleon" /> &nbsp; **Empoleon** · It avoids unnecessary disputes, but it will decimate anything that threatens its pride.
 <!-- POKEMON-FACT:END -->
 
 ## links
