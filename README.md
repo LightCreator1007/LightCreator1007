@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png" height="48" align="top" alt="Empoleon" /> &nbsp; **Empoleon** · It avoids unnecessary disputes, but it will decimate anything that threatens its pride.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" height="48" align="top" alt="Hypno" /> &nbsp; **Hypno** · Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
 <!-- POKEMON-FACT:END -->
 
 ## links
