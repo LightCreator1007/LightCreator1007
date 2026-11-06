@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" height="48" align="top" alt="Hypno" /> &nbsp; **Hypno** · Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png" height="48" align="top" alt="Silcoon" /> &nbsp; **Silcoon** · Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk.
 <!-- POKEMON-FACT:END -->
 
 ## links
