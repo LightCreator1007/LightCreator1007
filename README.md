@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png" height="48" align="top" alt="Silcoon" /> &nbsp; **Silcoon** · Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png" height="48" align="top" alt="Lurantis" /> &nbsp; **Lurantis** · For self-protection, it pretends to be a bug Pokémon. Both of its arms bear keen-edged petals.
 <!-- POKEMON-FACT:END -->
 
 ## links
