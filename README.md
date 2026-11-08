@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png" height="48" align="top" alt="Lurantis" /> &nbsp; **Lurantis** · For self-protection, it pretends to be a bug Pokémon. Both of its arms bear keen-edged petals.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png" height="48" align="top" alt="Fletchling" /> &nbsp; **Fletchling** · Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.
 <!-- POKEMON-FACT:END -->
 
 ## links
