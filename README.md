@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png" height="48" align="top" alt="Fletchling" /> &nbsp; **Fletchling** · Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png" height="48" align="top" alt="Wigglytuff" /> &nbsp; **Wigglytuff** · Thanks to its bouncy body and fine fur, this Pokémon is sought after. Holding one in your arms while you sleep feels great.
 <!-- POKEMON-FACT:END -->
 
 ## links
