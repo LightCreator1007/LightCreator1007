@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png" height="48" align="top" alt="Wigglytuff" /> &nbsp; **Wigglytuff** · Thanks to its bouncy body and fine fur, this Pokémon is sought after. Holding one in your arms while you sleep feels great.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" height="48" align="top" alt="Parasect" /> &nbsp; **Parasect** · When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.
 <!-- POKEMON-FACT:END -->
 
 ## links
