@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" height="48" align="top" alt="Parasect" /> &nbsp; **Parasect** · When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png" height="48" align="top" alt="Sizzlipede" /> &nbsp; **Sizzlipede** · It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.
 <!-- POKEMON-FACT:END -->
 
 ## links
