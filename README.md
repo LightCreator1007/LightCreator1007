@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png" height="48" align="top" alt="Sizzlipede" /> &nbsp; **Sizzlipede** · It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png" height="48" align="top" alt="Lotad" /> &nbsp; **Lotad** · It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.
 <!-- POKEMON-FACT:END -->
 
 ## links
