@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png" height="48" align="top" alt="Lotad" /> &nbsp; **Lotad** · It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png" height="48" align="top" alt="Dwebble" /> &nbsp; **Dwebble** · It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
 <!-- POKEMON-FACT:END -->
 
 ## links
