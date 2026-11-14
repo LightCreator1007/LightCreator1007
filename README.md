@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png" height="48" align="top" alt="Dwebble" /> &nbsp; **Dwebble** · It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png" height="48" align="top" alt="Xatu" /> &nbsp; **Xatu** · It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that XATU are emissaries from another world.
 <!-- POKEMON-FACT:END -->
 
 ## links
