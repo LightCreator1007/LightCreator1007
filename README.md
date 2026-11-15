@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png" height="48" align="top" alt="Xatu" /> &nbsp; **Xatu** · It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that XATU are emissaries from another world.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png" height="48" align="top" alt="Sharpedo" /> &nbsp; **Sharpedo** · Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”
 <!-- POKEMON-FACT:END -->
 
 ## links
