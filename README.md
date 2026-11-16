@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png" height="48" align="top" alt="Sharpedo" /> &nbsp; **Sharpedo** · Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png" height="48" align="top" alt="Raging Bolt" /> &nbsp; **Raging Bolt** · It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor.
 <!-- POKEMON-FACT:END -->
 
 ## links
