@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png" height="48" align="top" alt="Raging Bolt" /> &nbsp; **Raging Bolt** · It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png" height="48" align="top" alt="Kabuto" /> &nbsp; **Kabuto** · It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.
 <!-- POKEMON-FACT:END -->
 
 ## links
