@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png" height="48" align="top" alt="Kabuto" /> &nbsp; **Kabuto** · It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png" height="48" align="top" alt="Koffing" /> &nbsp; **Koffing** · Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.
 <!-- POKEMON-FACT:END -->
 
 ## links
