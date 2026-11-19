@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png" height="48" align="top" alt="Koffing" /> &nbsp; **Koffing** · Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png" height="48" align="top" alt="Mudsdale" /> &nbsp; **Mudsdale** · It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.
 <!-- POKEMON-FACT:END -->
 
 ## links
