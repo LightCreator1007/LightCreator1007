@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png" height="48" align="top" alt="Mudsdale" /> &nbsp; **Mudsdale** · It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png" height="48" align="top" alt="Bouffalant" /> &nbsp; **Bouffalant** · They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.
 <!-- POKEMON-FACT:END -->
 
 ## links
