@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png" height="48" align="top" alt="Bouffalant" /> &nbsp; **Bouffalant** · They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png" height="48" align="top" alt="Lickitung" /> &nbsp; **Lickitung** · Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.
 <!-- POKEMON-FACT:END -->
 
 ## links
