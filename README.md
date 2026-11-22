@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png" height="48" align="top" alt="Lickitung" /> &nbsp; **Lickitung** · Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png" height="48" align="top" alt="Mime Jr" /> &nbsp; **Mime Jr** · It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.
 <!-- POKEMON-FACT:END -->
 
 ## links
