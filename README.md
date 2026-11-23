@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png" height="48" align="top" alt="Mime Jr" /> &nbsp; **Mime Jr** · It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png" height="48" align="top" alt="Raticate" /> &nbsp; **Raticate** · RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.
 <!-- POKEMON-FACT:END -->
 
 ## links
