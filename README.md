@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png" height="48" align="top" alt="Raticate" /> &nbsp; **Raticate** · RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" height="48" align="top" alt="Bulbasaur" /> &nbsp; **Bulbasaur** · While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.
 <!-- POKEMON-FACT:END -->
 
 ## links
