@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" height="48" align="top" alt="Bulbasaur" /> &nbsp; **Bulbasaur** · While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png" height="48" align="top" alt="Whimsicott" /> &nbsp; **Whimsicott** · It rides on the wind and slips into people’s homes. After it has turned a room into a cotton- filled mess, it giggles to itself and takes off.
 <!-- POKEMON-FACT:END -->
 
 ## links
