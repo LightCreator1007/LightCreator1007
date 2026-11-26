@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png" height="48" align="top" alt="Whimsicott" /> &nbsp; **Whimsicott** · It rides on the wind and slips into people’s homes. After it has turned a room into a cotton- filled mess, it giggles to itself and takes off.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png" height="48" align="top" alt="Phantump" /> &nbsp; **Phantump** · According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.
 <!-- POKEMON-FACT:END -->
 
 ## links
