@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png" height="48" align="top" alt="Phantump" /> &nbsp; **Phantump** · According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png" height="48" align="top" alt="Pancham" /> &nbsp; **Pancham** · It grows up imitating the behavior of Pangoro, which it looks up to as a leader.
 <!-- POKEMON-FACT:END -->
 
 ## links
