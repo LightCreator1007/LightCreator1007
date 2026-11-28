@@ -24,7 +24,7 @@
 ## pokémon of the day
 
 <!-- POKEMON-FACT:START -->
-> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png" height="48" align="top" alt="Pancham" /> &nbsp; **Pancham** · It grows up imitating the behavior of Pangoro, which it looks up to as a leader.
+> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png" height="48" align="top" alt="Zubat" /> &nbsp; **Zubat** · Zubat live in caves, down where the sun’s light won’t reach. In the morning, they gather together to keep each other warm as they sleep.
 <!-- POKEMON-FACT:END -->
 
 ## links
